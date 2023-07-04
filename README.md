@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emircan</h1>
+<img src="https://www.canva.com/design/DAFnsrylv-k/fL6dfSYSNAa4yzVrDoVaqA/edit?utm_content=DAFnsrylv-k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 - 🔭 I’m currently working on **Xplore 2023**
