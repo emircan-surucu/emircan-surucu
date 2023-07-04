@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Emircan</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h1 align="center">Welcome To My Github Profile</h1>
+<h3 align="center">I'm Emircan, a Jr. Frontend Developer. I am also a Control and Automation Engineering student at Yıldız Technical University. 
+  Learning about React currently.</h3>
 
 - 🔭 I’m currently working on **Xplore 2023**
 
